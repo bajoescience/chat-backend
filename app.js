@@ -15,6 +15,7 @@ const notifRouter = require("./controllers/notif");
 
 const path = require("path");
 const { dirname } = require("path");
+const compression = require("compression");
 const appDir = dirname(require.main.filename);
 
 // Connect to mongoDB atlas database
@@ -26,6 +27,9 @@ mongoose
   .catch((e) => {
     logger.info(`error connecting to mongoDB: ${e}`);
   });
+
+// Compress files for optimal loading
+app.use(compression());
 
 // Allow frontend on different port to access backend
 app.use(cors());
