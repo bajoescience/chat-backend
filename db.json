@@ -1,0 +1,72 @@
+[
+  {
+    "firstname": "Lottie",
+    "lastname": "Hutchinson",
+    "username": "Lottie",
+    "email": "lottiehutchinson@plasto.com",
+    "password": "Hutchinson"
+  },
+  {
+    "firstname": "Frankie",
+    "lastname": "Foreman",
+    "username": "Frankie",
+    "email": "frankieforeman@plasto.com",
+    "password": "Foreman"
+  },
+  {
+    "firstname": "Wolf",
+    "lastname": "Morin",
+    "username": "Wolf",
+    "email": "wolfmorin@plasto.com",
+    "password": "Morin"
+  },
+  {
+    "firstname": "Rosie",
+    "lastname": "Martinez",
+    "username": "Rosie",
+    "email": "rosiemartinez@plasto.com",
+    "password": "Martinez"
+  },
+  {
+    "firstname": "Sophie",
+    "lastname": "Franco",
+    "username": "Sophie",
+    "email": "sophiefranco@plasto.com",
+    "password": "Franco"
+  },
+  {
+    "firstname": "Reynolds",
+    "lastname": "Barron",
+    "username": "Reynolds",
+    "email": "reynoldsbarron@plasto.com",
+    "password": "Barron"
+  },
+  {
+    "firstname": "Jannie",
+    "lastname": "Sweeney",
+    "username": "Jannie",
+    "email": "janniesweeney@plasto.com",
+    "password": "Sweeney"
+  },
+  {
+    "firstname": "Pickett",
+    "lastname": "Edwards",
+    "username": "Pickett",
+    "email": "pickettedwards@plasto.com",
+    "password": "Edwards"
+  },
+  {
+    "firstname": "Buck",
+    "lastname": "Torres",
+    "username": "Buck",
+    "email": "bucktorres@plasto.com",
+    "password": "Torres"
+  },
+  {
+    "firstname": "Barton",
+    "lastname": "Reese",
+    "username": "Barton",
+    "email": "bartonreese@plasto.com",
+    "password": "Reese"
+  }
+]
